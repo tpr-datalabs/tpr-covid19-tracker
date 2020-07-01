@@ -1,5 +1,7 @@
 # TPR COVID-19 Tracker: Instructions and Tips
 
+![main](/assets/images/screenshot-main.png "main")
+
 ## Table of Contents
 - [Overview](#overview)
 - [Data Sources](#data-sources)
