@@ -109,7 +109,7 @@ Data for each store's phase of re-opening is updated weekly on Monday's, or if a
 
    ![export data](/assets/images/screenshot-export-data.png "export data")
 
-- DO NOT choose “Data” because it will download the full backend data and likely won’t be structured the way you want.
+- Please **do not** choose “Data” because it will download the full backend data and likely won’t be structured the way you want.
 
 ### Save as Image or PDF
 - Select the “Download” button and choose to save as Image or PDF, which will save the whole dashboard with your current selections/filters.
