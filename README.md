@@ -68,6 +68,9 @@ Data for each store's phase of re-opening is updated weekly on Monday's, or if a
    ![sort](/assets/images/screenshot-sort.png "sort")
 
 - **Hover** over the data to reveal more details about the store and its state’s current re-opening status.
+
+   ![store reopening](/assets/images/screenshot-store-reopening.png "store reopening")
+
 - **Select** a store to show it on the map and populate the two charts below, which illustrate trends over time.
 
 ### Total Trends for Store
