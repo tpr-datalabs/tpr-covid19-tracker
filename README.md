@@ -50,10 +50,13 @@ Data for each store's phase of re-opening is updated weekly on Monday's, or if a
 ### Store Locations and County Trends (Map)
 - The **shaded areas** are counties.  Hover over any to reveal details about the county, including number of recent cases.  Select a metric in the dropdown menu below the map to change the metric by which the colors scale.
 
-   ![screenshot metric dropdown](/assets/images/screenshot-metric-dropdown.png "screenshot metric dropdown")
+   ![metric dropdown](/assets/images/screenshot-metric-dropdown.png "metric dropdown")
 
 - The **dots** represent zip codes where there are stores.  Hover over any to reveal details about the store(s) in that zip code.
 - **Select** a store to filter the charts specifically for that store.  Select a group of stores by using the lasso, circle or rectangle tools in the map’s menu.
+
+   ![select group](/assets/images/screenshot-select-group.png "select group")
+
 - **Search** for a particular region by clicking into the magnifying glass at the top left of the map.
 - **Move** the map by selecting the “pan” tool in the map’s menu.
 
