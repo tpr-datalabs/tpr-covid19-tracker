@@ -64,6 +64,9 @@ Data for each store's phase of re-opening is updated weekly on Monday's, or if a
 - This table lists each store’s respective statistics for counties within a 60 mile radius, including counties in adjacent states.  Please note that an individual county might be associated with multiple stores if it falls within their radii.
 - **Select** a metric in the dropdown menu above the table to change the metric by which the colors scale.
 - **Sort** according to any metric by hovering over the column name and clicking on the “sort” icon.  Click once to sort descending.  Click again to sort ascending.  Click a third time to return to the original sort order.
+
+   ![sort](/assets/images/screenshot-sort.png "sort")
+
 - **Hover** over the data to reveal more details about the store and its state’s current re-opening status.
 - **Select** a store to show it on the map and populate the two charts below, which illustrate trends over time.
 
