@@ -116,4 +116,6 @@ Data for each store's phase of re-opening is updated weekly on Monday's, or if a
 
    You can always click the "Revert" button to return the tracker to its default.
 
-*Still have a question that wasn't addressed here?  E-mail tlai1@tapestry.com.*
+```   
+Still have a question that wasn't addressed here?  E-mail tlai1@tapestry.com.
+```
