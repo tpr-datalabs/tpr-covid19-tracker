@@ -115,7 +115,6 @@ Data for each store's phase of re-opening is updated weekly on Monday's, or if a
 - ***I'm not sure what happened, but I clicked something and the charts disappeared and/or are acting strangely.  What should I do?***
 
    You can always click the "Revert" button to return the tracker to its default.
-
-```   
+---
 Still have a question that wasn't addressed here?  E-mail tlai1@tapestry.com.
-```
+
