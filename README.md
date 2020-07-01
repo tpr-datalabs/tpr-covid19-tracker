@@ -1,4 +1,4 @@
-# Instructions for TPR COVID-19 Tracker
+# TPR COVID-19 Tracker: Instructions and Tips
 
 ## Table of Contents
 - [Overview](#overview)
