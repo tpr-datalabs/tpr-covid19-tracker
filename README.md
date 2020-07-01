@@ -53,12 +53,11 @@ Data for each store's phase of re-opening is updated weekly on Monday's, or if a
    ![metric dropdown](/assets/images/screenshot-metric-dropdown.png "metric dropdown")
 
 - The **dots** represent zip codes where there are stores.  Hover over any to reveal details about the store(s) in that zip code.
+- **Search** for a particular region by clicking into the magnifying glass at the top left of the map.
+- **Move** the map by selecting the “pan” tool in the map’s menu.
 - **Select** a store to filter the charts specifically for that store.  Select a group of stores by using the lasso, circle or rectangle tools in the map’s menu.
 
    ![select group](/assets/images/screenshot-select-group.png "select group")
-
-- **Search** for a particular region by clicking into the magnifying glass at the top left of the map.
-- **Move** the map by selecting the “pan” tool in the map’s menu.
 
 ### Store Summaries
 - This table lists each store’s respective statistics for counties within a 60 mile radius, including counties in adjacent states.  Please note that an individual county might be associated with multiple stores if it falls within their radii.
@@ -72,6 +71,7 @@ Data for each store's phase of re-opening is updated weekly on Monday's, or if a
    ![store reopening](/assets/images/screenshot-store-reopening.png "store reopening")
 
 - **Select** a store to show it on the map and populate the two charts below, which illustrate trends over time.
+
 
 ### Total Trends for Store
 - This chart populates only if a store is selected in the “Store Summaries” table above.
@@ -87,9 +87,14 @@ Data for each store's phase of re-opening is updated weekly on Monday's, or if a
 - **Hover** over the data to reveal more details about the state’s current re-opening status.
 - **Click** on the name of the state to open a tooltip with a link to a news article recommended by the New York Times about the states re-opening status.
 
+   ![state trends](/assets/images/screenshot-state-trends.png "state trends")
+
 ## Exporting and Saving
 ### Export to Excel
 - Select the “Download” button and choose “Crosstab,” then select the chart you want to export the data from.  “Store Summaries” will probably be the most useful to export in Excel.
+
+   ![export data](/assets/images/screenshot-export-data.png "export data")
+
 - DO NOT choose “Data” because it will download the full backend data and likely won’t be structured the way you want.
 
 ### Save as Image or PDF
