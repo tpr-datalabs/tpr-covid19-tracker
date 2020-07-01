@@ -17,11 +17,12 @@ The COVID-19 Tracker integrates publically available health data with internal s
 The tool is for directional purposes as a supplement to other resources that business partners should be referencing.  All data should be verified against additional external sources before taking action or communicating implications.
 
 ## Data Sources
-COVID-19 cases by U.S. county and state are sourced from the New York Times, which aggregates the data from local sources.
+- New York Times
+   - COVID-19 cases by U.S. county and state, aggregated from local sources
+    - Re-opening statuses of U.S. states
 
-Re-opening statuses of U.S. states are also sourced from the New York Times.  However, please note that the New York Times publishes the aggregation every evening, so the status in the tracker might not include the most recent announcements if a spike has occurred.
-
-Phase of store's re-opening are from an internal spreadsheet that is distributed weekly.
+- Internal Teams
+   - Status and phases for store re-openings, from an internal spreadsheet that is distributed weekly
 
 ## Access
 Users must be logged into the secure VPN and have license permissions (granted by TPR Analytics team) in order to access the tracker.
