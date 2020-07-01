@@ -18,6 +18,8 @@ The COVID-19 Tracker integrates publically available health data with internal s
 
 The tool is for directional purposes as a supplement to other resources that business partners should be referencing.  All data should be verified against additional external sources before taking action or communicating implications.
 
+---
+
 ## Data Sources
 - New York Times
    - COVID-19 cases by U.S. county and state, aggregated from local sources
@@ -26,10 +28,14 @@ The tool is for directional purposes as a supplement to other resources that bus
 - Internal Teams
    - Status and phases for store re-openings, from an internal spreadsheet that is distributed weekly
 
+---
+
 ## Access
 Users must be logged into the secure VPN and have license permissions (granted by TPR Analytics team) in order to access the tracker.
 
 Please note that these instructions are publically available, so brands are not mentioned explicitly and screenshots censor any confidential information.
+
+---
 
 ## Update Frequency
 The dashboard will be updated by noon everyday.
@@ -40,6 +46,8 @@ Data for states' re-opening statuses are published by the New York Times each ev
 
 Data for each store's phase of re-opening is updated weekly on Monday's, or if an important change has occurred.
 
+---
+
 ## Definitions
 
 - **New Cases Yesterday** – New confirmed cases of COVID-19 for the most recent date included in the tracker (listed at the top right corner of the dashboard)
@@ -48,6 +56,8 @@ Data for each store's phase of re-opening is updated weekly on Monday's, or if a
 - **7-day Avg per Capita (M)** – The average daily new cases for the past 7 days, divided by the county’s population in millions.  In other words, the number of new cases for every million people in the county.  This metric is intended to normalize the volume of new cases for population size.  For example, if the 7-day Avg for Neverland County is 100 new cases and its population is 10,000,000 people, then the 7-day Avg per Capita (M) is 10.
 - **Prior Week’s 7-day Avg** –  As an example, if yesterday was June 15 and the current 7-day Avg includes June 9-15, then this metric is the daily average for June 2-8.  (Please see above for the definition of 7-day Avg).
 - **7-day Avg vs Prior Week** – The increase/decrease that the current 7-day Avg represents in relation to the Prior Week’s 7-day Avg.  (Please see above for definition of Prior Week’s 7-day Avg).
+
+---
 
 ## How to Interpret and Interact with Charts
 ### Store Locations and County Trends (Map)
@@ -92,6 +102,7 @@ Data for each store's phase of re-opening is updated weekly on Monday's, or if a
 
    ![state trends](/assets/images/screenshot-state-trends.png "state trends")
 
+---
 ## Exporting and Saving
 ### Export to Excel
 - Select the “Download” button and choose “Crosstab,” then select the chart you want to export the data from.  “Store Summaries” will probably be the most useful to export in Excel.
@@ -102,6 +113,8 @@ Data for each store's phase of re-opening is updated weekly on Monday's, or if a
 
 ### Save as Image or PDF
 - Select the “Download” button and choose to save as Image or PDF, which will save the whole dashboard with your current selections/filters.
+
+---
 
 ## FAQs
 - ***Will this include Canada and other countries?***
