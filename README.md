@@ -1,6 +1,6 @@
 # TPR COVID-19 Tracker: Instructions and Tips
 
-![main](/assets/images/screenshot-main2.png "main")
+![main](/assets/images/screenshot-main3.png "main")
 
 ## Table of Contents
 - [Overview](#overview)
@@ -27,6 +27,7 @@ The tool is for directional purposes as a supplement to other resources that bus
 
 - Internal Teams
    - Status and phases for store re-openings, from an internal spreadsheet that is distributed weekly
+   - Confirmed cases among store employees in past 15 days
 
 ---
 
@@ -44,7 +45,7 @@ Data for COVID-19 cases will also be updated by noon everyday.
 
 Data for states' re-opening statuses are published by the New York Times each evening.  While the most recent data will be updated with the tracker by noon everyday, the state's status in the tracker might not include the most recent announcements if a spike has occurred that day.
 
-Data for each store's phase of re-opening is updated weekly on Monday's, or if an important change has occurred.
+Data for each store's phase of re-opening is updated weekly on Monday's, or if an important change has occurred.  Data for confirmed employee cases is updated daily.
 
 ---
 
